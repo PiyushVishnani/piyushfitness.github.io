@@ -4,7 +4,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-image: url(/project/img/bg.png);
+    background-image: url(/img/bg.png);
     /* background-repeat: no-repeat; */
     background-attachment: scroll;
     background-size: cover;
